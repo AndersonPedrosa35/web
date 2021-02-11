@@ -1,0 +1,35 @@
+h1 {
+    font-size: 40px;
+    font-family: helvetica, sans-serif;
+}
+.hability1 {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.hability2 {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+.hability3 {
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.hability4 {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+p {
+    font: 200 monospace 16px;
+}
+#nascimento {
+    font-weight: 600;
+}
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+
+}
