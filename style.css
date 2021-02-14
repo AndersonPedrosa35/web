@@ -55,4 +55,9 @@ h1 {
 
 li {
     margin-top: 2px;
+    right: 20px;
+}
+
+.foto {
+    left: 120px;
 }
