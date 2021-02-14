@@ -34,5 +34,16 @@ p {
 body {
     background-color: blanchedalmond;
     text-align: center;
+}
 
+.header {
+    max-width: 80%;
+}
+
+.header-text, li, .foto {
+    position: relative;
+    top: 100px;
+}
+.header img {
+    float: right;
 }
