@@ -1,18 +1,9 @@
-.hability1 {
-    font-size: 18px;
-    font-weight: 600;
-    font-family: sans-serif;
-}
 .hability2 {
     font-family: sans-serif;
     font-size: 18px;
     font-style: italic;
 }
-.hability3 {
-    font-size: 18px;
-    font-weight: 600;
-    font-family: sans-serif;
-}
+
 .hability4 {
     font-size: 18px;
     font-weight: 400;
@@ -56,6 +47,11 @@ h1 {
 li {
     margin-top: 2px;
     right: 20px;
+}
+
+li:nth-of-type(odd){
+    font-weight: 700;
+    font-family: Times;
 }
 
 .foto {
